@@ -2,4 +2,6 @@
     <string name="app_name">ButtonTest</string>
     <string name="btn1">Button Test</string>
     <string name="txt1">Android Programming</string>
+    <string name="radio_female">여성</string>
+    <string name="radio_male">남성</string>
 </resources>
